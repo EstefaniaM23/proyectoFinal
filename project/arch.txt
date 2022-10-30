@@ -1,2 +1,36 @@
 calle 24444444 # 22 - 32
 calle 24 # 22 - 03
+CALLE 24 # 22 - 03
+cr septima # 183 - 59
+calle 5 sur # 45 a - 59
+cll 5 sur # 45 a -59
+cll 5 emt
+dg 23 # 12 a - 28 bis
+av universitaria # 39 - 77
+cll sur 12 a 34
+Cr 22 bis # 22a - 45
+Av 78 # 26 - 56 bis
+Cr 22 # 22a - 45 bis
+cr 17a # 12 - 58 sur
+cr 12 # 51 - 06 sur
+cr 17 a # 12 - 58 bis
+cr 12 sur
+tr 06 # 12 - 67 bis
+cll 5 sur # 12 a - 59 apt
+cll 5 sur # 12 a - 59 apartamento 3 torre 2
+cll 5 sur # 12 a - 59 apartamento 2
+cll 5 sur # 12 a - 59 2
+Cr 22 bis # 22a - 45
+Av 78 # 26 - 56 bis
+Calle 57 N bis sur # 75 F - 27
+Cr 84 A # 129 bis - 40
+cr 17 a # 1258 bis
+Avenida 19 # 98 - 03
+Calle 19 # 80A - 40
+vereda
+vereda hola
+vereda la esperanza
+vereda la esperanza sector la pradera
+vereda la esperanza sector la pradera 69
+vereda cuadra picha sector tal manzana 59
+Avenida 19 # 98 - 03
