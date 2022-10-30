@@ -1,0 +1,8 @@
+README.md
+setup.py
+proyectoDirecciones/__init__.py
+proyectoDirecciones/proyecto.py
+proyectoDirecciones.egg-info/PKG-INFO
+proyectoDirecciones.egg-info/SOURCES.txt
+proyectoDirecciones.egg-info/dependency_links.txt
+proyectoDirecciones.egg-info/top_level.txt
