@@ -17,5 +17,5 @@ for i in range(0, len(address)):
         print("Direccion correcta")
         print(address[i])
     else:
-        print("Dirrecion incorrecta bruto")
+        print("Dirrecion incorrecta")
         print(address[i])
